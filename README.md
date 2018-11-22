@@ -17,10 +17,10 @@
     And all is done it self, all your packages is now UP TO DATE!
 
 ## Author
-    - [Sanix-darker](https://github.com/sanix-darker)
+   [Sanix-darker](https://github.com/sanix-darker)
 
 ## Organization
-    - [Python-Cameroun](https://github.com/python-cameroun)
+   [Python-Cameroun](https://github.com/python-cameroun)
 
 ## LICENSE
     You are free to update, fork, modify this source code!
