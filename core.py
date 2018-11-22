@@ -16,3 +16,4 @@ except ImportError:
     print "Pip is not present."
     print "-------------------------"
     print "Please use this link to install PIP FIRST: https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation"
+    sys.exit()
