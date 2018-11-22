@@ -12,7 +12,7 @@
     You just need to launch one of the tool corresponding to your system:
         - FOR WINDOWS: launch windowsPY.bat
         - FOR LINUX: launch linuxPY.sh
-        - FOR MAC: launch macPY.sh
+        - FOR MAC: launch macPY.command
 
     And all is done it self, all your packages is now UP TO DATE!
 
