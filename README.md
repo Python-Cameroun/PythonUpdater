@@ -11,8 +11,8 @@
 
 ## How to use it?
   You just need to launch one of the tool corresponding to your system:
-  - *FOR WINDOWS:* launch **_windowsPY.bat**
-  - *FOR LINUX:* launch **_linuxPY.sh**
+  - *FOR WINDOWS:* launch **_windowsPY.bat_**
+  - *FOR LINUX:* launch **_linuxPY.sh_**
   - *FOR MAC:* launch **_macPY.command_**
   
   And all is done it self, all your packages is now UP TO DATE!
