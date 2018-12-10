@@ -2,7 +2,6 @@
 
 ## Presentation
    This is a simple tool to update easily your python packages on your computer simple by launch it.
-   
    **" YOU DON'T NEED TO RUN ANY COMMAND! "**.
 
 ## How it's work?
@@ -19,9 +18,6 @@
 
 ## Author
    [Sanix-darker](https://github.com/sanix-darker)
-
-## Contributors
-...
 
 ## Organization
    [Python-Cameroun](https://github.com/python-cameroun)
