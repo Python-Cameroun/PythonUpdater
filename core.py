@@ -1,16 +1,18 @@
-import os
 import sys
 
+# Starting process
 print "> Starting....\n"
 print "> PyUp is checking if pip is installed......\n"
 separator = "----------------------------------------------------------------------------\n"
-# Here the code to do after for cheking if yes or no the pip is installed
+
 try:
+    # Checking if pip is installed first, if not installed then pyUp will install it
     import pip
     print "> PyUp: Pip is present.\n"
     print separator
     print "> PyUp: checking for pip-review .....\n"
     try:
+        # Checking for pip-review, if not installed then pyUp will install it
         import pip_review
         print "> PyUp: pip-review is present.\n"
     except:
@@ -28,6 +30,7 @@ except ImportError:
     if installPIP.lower() == "y":
         print "> PyUp: Opening in the browser....\n"
         try:
+            # Checking for webbrowser, if not installed then pyUp will install it
             import webbrowser
         except:
             print "> PyUp: You don't have webbrowser installed\n"
@@ -38,4 +41,4 @@ except ImportError:
     else:
         print "> PyUp: Please use this link to install PIP FIRST, otherwise PyUp is not able to work: https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation"
     sys.exit()
-stop_theclosingcmd = raw_input(".")
+os.system("pause")
